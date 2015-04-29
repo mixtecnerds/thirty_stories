@@ -1,0 +1,1212 @@
+[
+  {
+    "title": "Nána",
+    "mixtec": "Tá ni̱xi̱yo lo’o Lálo ra kini va̱’a ni̱xi̱yo-ra.   Ña̱ ikán ndi’i ki̱í ndíso nána-ra-ra tá kua̱’a̱n-ñá yukú á ya̱’vi.",
+    "words": [
+      {
+        "token": "ni̱xi̱yo",
+        "gloss": "was"
+      },
+      {
+        "token": "kini",
+        "gloss": "difficult"
+      },
+      {
+        "token": "ndíso",
+        "gloss": "carrying"
+      },
+      {
+        "token": "yukú",
+        "gloss": "mountain"
+      },
+      {
+        "token": "ya̱’vi",
+        "gloss": "market"
+      }
+    ],
+    "english": "When Lalo was little he was very difficult.  Because of that, every day his mom carried him when she would go to the hills or marketplace."
+  },
+  {
+    "title": "Saa",
+    "mixtec": "Tá sa̱va’a Ndióxi̱ ndi’i ña̱’a nu̱ú ñu’ú yó’o, ra sa̱va’a-ra ta’an nu̱ú saa ná ndachí-ri ndiví ra kata-ri nu̱ú-ra ta’an na’a.",
+    "words": [
+      {
+        "token": "sa̱va’a",
+        "gloss": "made, did"
+      },
+      {
+        "token": "ñu’ú",
+        "gloss": "earth, dirt"
+      },
+      {
+        "token": "ndachí",
+        "gloss": "to fly"
+      },
+      {
+        "token": "-ri",
+        "gloss": "pronoun for animals, fruits, round things"
+      },
+      {
+        "token": "ndiví",
+        "gloss": "sky, heaven"
+      },
+      {
+        "token": "kata",
+        "gloss": "sing"
+      }
+    ],
+    "english": "When God made everything on this Earth, he made all types of birds to fly in the sky and sing to him every morning."
+  },
+  {
+    "title": "Ká’vi",
+    "mixtec": "Ndi’i ki̱í kua̱’a̱n Lety xí’in José skuéla chi kútóo-na kutu’va-na tiaa-na xí’in ka’vi-na. Tá xa̱ kíxa̱a̱-na ve’e-na ké’é-na tarea-na, ra ká’vi-na iin kuéndo nu̱ú ku̱’va lo’o-na tákua ná ku̱su̱n-ñá.",
+    "words": [
+      {
+        "token": "ndi’i",
+        "gloss": "every, each"
+      },
+      {
+        "token": "xí’in",
+        "gloss": "with, and"
+      },
+      {
+        "token": "kútóo",
+        "gloss": "likes"
+      },
+      {
+        "token": "kutu’va",
+        "gloss": "to study, to learn"
+      },
+      {
+        "token": "kíxa̠a̠",
+        "gloss": "arrives at home"
+      },
+      {
+        "token": "ké’é",
+        "gloss": "doing homework or taking a test"
+      },
+      {
+        "token": "ku̱’va",
+        "gloss": "opposite gender sibling"
+      },
+      {
+        "token": "ku̱su̱n",
+        "gloss": "to sleep"
+      }
+    ],
+    "english": "Every day, Lety and José go to school because they like learning to write and to read.  When they get home they do their homework, and they read a story to their little sister to get her to go to sleep."
+  },
+  {
+    "title": "Ita",
+    "mixtec": "Íyo iin ita ña̱ naní ita kua̱ún, ña̱ kuáan kúú-ña.  Tá yo̱ó julio táa o̱ko̱ u̱xa̱-ri kíxáá-na xátia̱-na-ña, ra ku’va ná xi̱nu-ña vikó ndi̠i̠, chi saá xíniñú’u-na-ña katún-na toso ndi̠i̠-na.  Ra xíniñú’u tu-na-ña ku̱’u̱n-ña xí’in-na kamisándo va chi sándakutú-na ikán va.",
+    "words": [
+      {
+        "token": "ita kua̠ún",
+        "gloss": "marigold"
+      },
+      {
+        "token": "kíxáá",
+        "gloss": "starting"
+      },
+      {
+        "token": "xátia̱",
+        "gloss": "digging"
+      },
+      {
+        "token": "ku’va",
+        "gloss": "like that"
+      },
+      {
+        "token": "xi̱nu",
+        "gloss": "to complete"
+      },
+      {
+        "token": "ndi̱i̱",
+        "gloss": "the dead"
+      },
+      {
+        "token": "katún",
+        "gloss": "to tie"
+      },
+      {
+        "token": "toso",
+        "gloss": "gravestone"
+      },
+      {
+        "token": "kamisándo",
+        "gloss": "cemetery"
+      },
+      {
+        "token": "sándakutú",
+        "gloss": "filling"
+      }
+    ],
+    "english": "There is a flower called a marigold, it is orange.  When July comes, around the 27th, they start digging them up and that's how they get them ready for Day of the Dead, because they need them to tie to the graves of the dead.  They also need them to take to the cemetery and fill it with flowers."
+  },
+  {
+    "title": "Itu",
+    "mixtec": "Ná’nu va̱’a ndixí íyo nda’á itu táta Lípe, chi xítu-ra xa̱’á-ña ta chíka̱a̱-ra bóno-ña. Ña̱ ikán kúú-ña ná’nu ná’a ndixí kána nu̱ú itu-ra ra ndi’i na̱ yuví ñuu kûni̱ kuiin ndixí nu̱ú-ra kaxí-na xí’in se̱’e-na.",
+    "words": [
+      {
+        "token": "ná'nu",
+        "gloss": "big (plural)"
+      },
+      {
+        "token": "ndixí",
+        "gloss": "corn on thecob"
+      },
+      {
+        "token": "itu",
+        "gloss": "corn field"
+      },
+      {
+        "token": "xítu",
+        "gloss": "weeding"
+      },
+      {
+        "token": "chíka̠a̠",
+        "gloss": "applies, puts"
+      },
+      {
+        "token": "bóno",
+        "gloss": "fertilizer"
+      },
+      {
+        "token": "ña̠ ikán",
+        "gloss": "that's why"
+      },
+      {
+        "token": "ñuu",
+        "gloss": "town"
+      },
+      {
+        "token": "kuiin",
+        "gloss": "to buy"
+      }
+    ],
+    "english": "The corn from Felipe's dad's field are big because he weeds and applies fertilizer.  That's why the corn from his field comes out so big and everyone in town buys corn from him to eat with their kids."
+  },
+  {
+    "title": "Kîni̱",
+    "mixtec": "Ni̱xi̱yo iin kîni̱ tí káchi saá,\n\"Va̱’a ndi̱va̱’a kéé-i chi kökáchíñu-i ta ndi’i ki̱í kíxa̱a̱-na táxi-na nu̱ní, xi̱tá xí’in tiuxan ko’o-i.\"\nTa nda̱kui̱in iinka kîni̱, ra káchi-ri saá,\n\"Köchá’vi-yo xa̱’á ña̱’a xíxi-yo xí’in chiñu chi    xí’in ku̱ñu̱-yo chá’vi-yo xa̱’á-ña tá xá’ní-na-yo xíxi-na.\"",
+    "words": [
+      {
+        "token": "ndi̠va̠'a",
+        "gloss": "very much"
+      },
+      {
+        "token": "kéé",
+        "gloss": "tuns out"
+      },
+      {
+        "token": "kökáchíñu",
+        "gloss": "not working"
+      },
+      {
+        "token": "táxi",
+        "gloss": "giving"
+      },
+      {
+        "token": "nu̠ní",
+        "gloss": "corn"
+      },
+      {
+        "token": "tiuxan",
+        "gloss": "slop"
+      },
+      {
+        "token": "ko'o",
+        "gloss": "to drink"
+      },
+      {
+        "token": "köchá’vi ",
+        "gloss": "aren’t paying"
+      },
+      {
+        "token": "chá'vi",
+        "gloss": "paying"
+      },
+      {
+        "token": "xá'ní",
+        "gloss": "killing"
+      }
+    ],
+    "english": "There was a pig who said, \"Things are turning out so well for me because I don't work but every day they arrive and give me corn, and tortillas, and slop to drink.\nAnd another pig answered, saying, \"We don't pay for what we eat with work because we pay with our flesh when they kill us and eat us.\""
+  },
+  {
+    "title": "To̱ká",
+    "mixtec": "Íyo iin ñá chêé sáva̱’a-ñá to̱ká íxiko-ñá, ra nduvi chá-ña ke̱e ña̱’a-yo.  Ta iin tú ti̱vi̱ kúú-ña, ra íyo so̱’o-ña nu̱ú tiin-yo kaka-ña xí’in-yo.  Va̠'a kée xi̱tá xí’in kití vi̱xi̱ xí’in ndikuii ña̠’a kûni̱-yo ke̱e ini-ña.",
+    "words": [
+      {
+        "token": "ñá chêé",
+        "gloss": "older woman"
+      },
+      {
+        "token": "to̱ká",
+        "gloss": "basket"
+      },
+      {
+        "token": "íxiko",
+        "gloss": "selling"
+      },
+      {
+        "token": "ke̠e",
+        "gloss": "to enter"
+      },
+      {
+        "token": "ti̠vi̠",
+        "gloss": "round"
+      },
+      {
+        "token": "tiin",
+        "gloss": "to grab"
+      },
+      {
+        "token": "kití vi̠xi̠",
+        "gloss": "fruit"
+      },
+      {
+        "token": "ndikuǐi",
+        "gloss": "everything"
+      }
+    ],
+    "english": "There is an old lady who makes baskets to sell and they are very beautiful for holding things.  There is one that is round and has handles so we can carry it.  It is great for carrying tortillas, fruit, and anything else we need to carry with us."
+  },
+  {
+    "title": "Ti̱naná",
+    "mixtec": "Íyo u̱vi̱ nu̱ú ti̱naná. Íyo ti̱naná kuá’a xí’in ti̱naná so̱ó. Ti̱naná kuá’a xíniñú’u-yo sáva̱’a-yo sópa va, áróo va, xí’in ndi̱ví va, xí’in tia̱’á kûun va, xí’in iinka ña̱’a ña̱ kuvi kuniñú’u-yo-ri.\nÍyo tuku-na xíniñú’u ti̱naná so̱ó nina ti̱naná so̱ó va xíniñú’u-yo xí’in tia̱’á kûun, ra íyo na̱ sákava nuu na-ri xí’in ña̱’a sáva̱’a-na.",
+    "words": [
+      {
+        "token": "nu̱ú",
+        "gloss": "kind or type"
+      },
+      {
+        "token": "tia̱’á kûun",
+        "gloss": "salsa"
+      },
+      {
+        "token": "ti̠naná",
+        "gloss": "tomato"
+      },
+      {
+        "token": "kuvi",
+        "gloss": "can, able"
+      },
+      {
+        "token": "kuá'a",
+        "gloss": "red"
+      },
+      {
+        "token": "kuniñú'u",
+        "gloss": "to use, to need"
+      },
+      {
+        "token": "so̠ó",
+        "gloss": "peel, husk"
+      },
+      {
+        "token": "nina",
+        "gloss": "only"
+      },
+      {
+        "token": "áróo",
+        "gloss": "rice"
+      },
+      {
+        "token": "sákánuu",
+        "gloss": "mixing, stirring"
+      }
+    ],
+    "english": "There are two types of tomatoes.  There are red tomatoes and there are tomatillos.  We use red tomatoes to make pasta dishes, rice dishes, eggs, salsa, and all sorts of other things we can use it for.\nThere are also things that tomatillos can be used for, but mostly tomatillos are just used for making salsa, but there some people who mix tomatillos in with other things they make."
+  },
+  {
+    "title": "Nu̱’u",
+    "mixtec": "Tá ni̱xi̱yo lo’o tia̱ Lálo, ra ki̱xaá kána   nu̱’u-ra, ra chíka̱a̱-ra iin yu̱’va̱ lo’o xa̱’á-ña.  Iin níí saá ki̱í ni̱xita-ra mií yu̱’va̱ lo’o ikán tá ná taya xa̱’á nu̱’u-ra, ra kama kana-ña.\nTá xi̱kua̱á ra ki̱xaa̱-ra ve’e-ra, ra ki̱xaá-ra sísikí-ra xí’in ku̱’va lo’o-ra.  Ñá ikán ti̱in yu̱’va̱   lo’o nu̱’u-ra ra ni¬̱xita-ñá-ña, ra kana-ña. Saá kǔu tá kana nu̱’u Lálo.",
+    "words": [
+      {
+        "token": "ki̱xaá",
+        "gloss": "started"
+      },
+      {
+        "token": "ni̱xita",
+        "gloss": "pulled"
+      },
+      {
+        "token": "kána",
+        "gloss": "coming out"
+      },
+      {
+        "token": "taya",
+        "gloss": "to loosen"
+      },
+      {
+        "token": "nu̠'u",
+        "gloss": "tooth"
+      },
+      {
+        "token": "kama",
+        "gloss": "fast"
+      },
+      {
+        "token": "yu̱’va̱",
+        "gloss": "string"
+      },
+      {
+        "token": "xi̱kua̱á",
+        "gloss": "afternoon"
+      },
+      {
+        "token": "xa̠'á",
+        "gloss": "foot, base"
+      },
+      {
+        "token": "sísikí",
+        "gloss": "playing"
+      },
+      {
+        "token": "níí",
+        "gloss": "whole, total"
+      },
+      {
+        "token": "ti̱in",
+        "gloss": "grabbed"
+      },
+      {
+        "token": "ki̠í",
+        "gloss": "day"
+      },
+      {
+        "token": "kǔu",
+        "gloss": "was"
+      }
+    ],
+    "english": "When Lalo was little and one of his teeth started to come out he tied a string around the base of it.  All day long he pulled on that string to loosen that tooth so it would come out quickly.\nWhen it was the afternoon and he got home, he was playing with his little sister.  That's when she yanked on that string and the tooth came right out.  And that is how Lalo's tooth came out."
+  },
+  {
+    "title": "Tiin",
+    "mixtec": "Iin ichí ni̱ki̱’vi iin tiin naní Tóño ve’e na̱ kuíka. Suu tá kuni̱-ri kana-ri ra ni̱ti̱in-ri xa̱’á ve’e.  Ikán ni̱xa̱a̱ Pépe ra chi̱ndieé tá’án-ri xí’in-ri ra kana-ri ini ya̱vi̱ ikán.  Ña̱ ikán va̱’a ná’a      ndíkitá’án Tóño xí’in Pépe vichin.",
+    "words": [
+      {
+        "token": "ni̱ki̱’vi",
+        "gloss": "entered"
+      },
+      {
+        "token": "kuíka",
+        "gloss": "rich"
+      },
+      {
+        "token": "kǔni̠",
+        "gloss": "wanted"
+      },
+      {
+        "token": "ni̠ti̠in",
+        "gloss": "got stuck"
+      },
+      {
+        "token": "ni̱xa̱a̱",
+        "gloss": "arrived"
+      },
+      {
+        "token": "chi̱ndieé tá’án",
+        "gloss": "helped out"
+      },
+      {
+        "token": "ya̠vi̠",
+        "gloss": "hole"
+      },
+      {
+        "token": "ndíkitá’án",
+        "gloss": "hangs out, gets together"
+      }
+    ],
+    "english": "One time a mouse named Toño got into the house of some rich people.  But when he wanted to leave he got stuck under the house.  So then Pepe arrived and helped him get out through a hole.  Now Toño and Pepe are very close friends."
+  },
+  {
+    "title": "Chítun",
+    "mixtec": "Íyo iin chítun sa̱na̱-ñá Lena, ra nduvi sásikí-ri xí’in ra̱ lo’o se̠’e-ñá.  Kútóo-ra xíka-ra xí’in iin yu̱’va̱ sákunu-rí chítun xa̱’á-ña.  Tá ñuu tá kíxi̠-na ve’e, ndándukún-ri tiin ka’ni-ri.  Saá chíndieé-ri Lena chi köo tiin ve’e-ñá.",
+    "words": [
+      {
+        "token": "sa̱na̱",
+        "gloss": "domesticated"
+      },
+      {
+        "token": "sásikí",
+        "gloss": "playing"
+      },
+      {
+        "token": "sákunu",
+        "gloss": "causes to chase"
+      },
+      {
+        "token": "ñuu",
+        "gloss": "night"
+      },
+      {
+        "token": "kíxi",
+        "gloss": "sleeping"
+      },
+      {
+        "token": "ndándukún",
+        "gloss": "hunting"
+      },
+      {
+        "token": "ka’ni",
+        "gloss": "to kill"
+      },
+      {
+        "token": "köo",
+        "gloss": "is not"
+      }
+    ],
+    "english": "Lena has a pet cat and it plays very well with her son.  He likes to walk with a string for the cat to chase.  At night, when they are sleeping, it hunts for mice to kill.  That's how it helps Lena because there aren't any mice at her house."
+  },
+  {
+    "title": "Tutún",
+    "mixtec": "Iin ichí ni̱xa̱’a̱n nána María xa̱’á tutún yukú.  Tá xa̱ ki̱xaá-ñá chika̱a̱-ñá tutún sa̱tá uru sa̱na̱-ñá, ra köníxini-ñá ínuu iin tisûn sa̱tá tutún, ra tuvi-ri nda’á-ñá.  Ikán ki̱xaá ká’un nda’á-ñá ra köníchika̱a̱ kua¬̱’á ka-ñá tutún sa̱tá uru sa̱na̱-ñá.",
+    "words": [
+      {
+        "token": "ichí",
+        "gloss": "time, instance"
+      },
+      {
+        "token": "ni̱xa̱’a̱n",
+        "gloss": "went"
+      },
+      {
+        "token": "tutún",
+        "gloss": "wood"
+      },
+      {
+        "token": "sa̠tá",
+        "gloss": "back"
+      },
+      {
+        "token": "uru",
+        "gloss": "donkey"
+      },
+      {
+        "token": "köníxini",
+        "gloss": "didn't see"
+      },
+      {
+        "token": "ínuu",
+        "gloss": "on top of"
+      },
+      {
+        "token": "tisûn",
+        "gloss": "wasp"
+      },
+      {
+        "token": "tuvi",
+        "gloss": "stung"
+      },
+      {
+        "token": "ká’un",
+        "gloss": "burning"
+      }
+    ],
+    "english": "One time Maria's mom went to get firewood from the hills.  When she started loading firewood on her donkey, she didn't see a wasp on the wood and it stung her hand.  Her hand started burning and she couldn't load any more wood on her donkey's back."
+  },
+  {
+    "title": "Vixí",
+    "mixtec": "Íyo iin ñuu naní San Juan Piña ra ikán kána kua̱’á vixí, ra mií vixí ikán íxiko-na-ña    ya̱’vi Skuíya á sava tu-na íxiko-na nu̱ú na̱ mástro. Chi tá xa̱ íyo vikó, ra tává-na-ña na̱ válí tíxá’a-na ra ikán chínúu-na iin vixí xi̱ní-na.",
+    "words": [
+      {
+        "token": "kána\t",
+        "gloss": "comes out"
+      },
+      {
+        "token": "Skuíya",
+        "gloss": "Santiago Juxtlahuaca"
+      },
+      {
+        "token": "kua̠'á",
+        "gloss": "a lot, much"
+      },
+      {
+        "token": "vikó",
+        "gloss": "party, festival"
+      },
+      {
+        "token": "vixí",
+        "gloss": "pineapple"
+      },
+      {
+        "token": "na̠ válí",
+        "gloss": "children"
+      },
+      {
+        "token": "íxǐko",
+        "gloss": "sells"
+      },
+      {
+        "token": "tíxá’a",
+        "gloss": "dancing"
+      },
+      {
+        "token": "ya̠'vi",
+        "gloss": "market"
+      },
+      {
+        "token": "chínúu",
+        "gloss": "put on top of"
+      }
+    ],
+    "english": "There's a town called San Juan Piñas where a lot of pineapples grow and the people sell those pineapples in the Juxtlahuaca market or they sell them to teachers.  That's because when there are festivals, the children take them and dance and place the pineapples on their heads."
+  },
+  {
+    "title": "Ñu̱ñú",
+    "mixtec": "Tá xi̱na̱’á ndátú’un-na xa̱’á tíñu̱ñú, ña̱ nu̱ú xátia̱-na kuayo ikán ndíki’in-ri súka.  Ña̱ ikán sáva̱’a-ri ñu̱ñú xí’in.\nSuu vichin nu̱ú ita xá’a̱n-ri ki’in-ri súka chi köxátia̱ ka-na súka.  Ña̱ ikán köo ná’a ka ñu̱ñú chi kündiéé tíñu̱ñú kachíñu ná’a-ri.",
+    "words": [
+      {
+        "token": "xi̱na̱’á",
+        "gloss": "the past"
+      },
+      {
+        "token": "ndátú'un",
+        "gloss": "is obligated, should"
+      },
+      {
+        "token": "tíñu̱ñú",
+        "gloss": "honey bee"
+      },
+      {
+        "token": "kuayo",
+        "gloss": "garbage"
+      },
+      {
+        "token": "súka",
+        "gloss": "sugar"
+      },
+      {
+        "token": "ñu̠ñú",
+        "gloss": "honey"
+      },
+      {
+        "token": "xá'a̠n",
+        "gloss": "goes"
+      },
+      {
+        "token": "kündiéé",
+        "gloss": "can't handle"
+      }
+    ],
+    "english": "A long time ago when people kept bees, where they threw out garbage the bees would get sugar.  That's how they would make honey.\nBut now bees go from flower to flower collecting sugar because people don't put out sugar.  That's why bees don't make very much sugar because they can't handle working so hard."
+  },
+  {
+    "title": "Táta-ñá",
+    "mixtec": "Tá ni̱xi̱yo lěe ñá Rosa tótóo kú’vi̱-ñá.  Kíxáá-ñá xáku-ñá ra ikán kúndá’vi ini táta-ñá-ñá, ra  ndaki’in-ra-ñá númi-ra-ñá tákua ná kuäku ka-ñá. Suu vichin ra kútóo ni̱’i va ñá Rosa ná numi-ra-ñá.",
+    "words": [
+      {
+        "token": "lěe",
+        "gloss": "baby"
+      },
+      {
+        "token": "tótóo",
+        "gloss": "frequently"
+      },
+      {
+        "token": "kúיvi̱",
+        "gloss": "gets sick"
+      },
+      {
+        "token": "kíxáá",
+        "gloss": "starting"
+      },
+      {
+        "token": "kúndá'vi ini",
+        "gloss": "feeling compassion"
+      },
+      {
+        "token": "númi",
+        "gloss": "holding"
+      },
+      {
+        "token": "kuäku",
+        "gloss": "not cry"
+      },
+      {
+        "token": "vichin",
+        "gloss": "now"
+      }
+    ],
+    "english": "When Rosa was a baby she would get sick all the time.  She would start to cry and her dad would feel sad for her, so he would pick her up and hold her so that should wouldn't keep crying.  Now Rosa likes him to hold her all the time."
+  },
+  {
+    "title": "Ve’e",
+    "mixtec": "Ve’e táta xá’nu-yu kúú iin ve’e ndo̱’o ká’nu  va̱’a, ra ve’e táta-i kúú iin ve’e ña̱ tavíke ta xi̱ní-ña kúú lámina̱.\n\nVe’e táta xá’nu-yu vi̱xin va̱’a ini ña̱ ikán tá nduví, ra tá ñuu vi̱xi̱n va̱’a ini-ña.  Ve’e táta-i ra i’ní ini-ña nduví, ra tá ñuu ndixa nda̱a̱ vi̱xin ini-ña. Suu kútóo-yu u̱vi̱ saá va-ña.",
+    "words": [
+      {
+        "token": "táta xá'nu",
+        "gloss": "grandpa"
+      },
+      {
+        "token": "ndo̱’o",
+        "gloss": "adobe brick"
+      },
+      {
+        "token": "tavíke",
+        "gloss": "cinder block"
+      },
+      {
+        "token": "lámina̱",
+        "gloss": "sheet metal"
+      },
+      {
+        "token": "vi̱xin",
+        "gloss": "cold"
+      },
+      {
+        "token": "ñǔu",
+        "gloss": "night"
+      },
+      {
+        "token": "nduví",
+        "gloss": "daytime"
+      },
+      {
+        "token": "vi̱xi̱n",
+        "gloss": "warm"
+      },
+      {
+        "token": "ndixa nda̱a̱ ",
+        "gloss": "truly"
+      },
+      {
+        "token": "u̠vi̠",
+        "gloss": "two"
+      }
+    ],
+    "english": "My grandpa's house is a big adobe brick house and my dad's house is a cement block house with a sheet metal roof.\nMy grandpa's house is cold inside in the daytime, but when it is night it is nice and warm.  My dad's house is hot inside in the day but at night it is really cold inside.  But I like both types."
+  },
+  {
+    "title": "Leso",
+    "mixtec": "Iin ichí xíka nuu-ri leso xíxi-ri itia, ra ikán nda̱ni’í-ri tiokó válí ndíso-ña ña̱’a kua̱’a̱n-ña xí’in-ña ya̱vi̱-ña.  Xini̱ leso ña̱ ndixa nda̱a̱ ve̱e ña̱ ndíso-ña.\n\nRa ikán ni̱xa̱’a̱n-ri ki’in-ri iin leka lo’o, ra ni̱ka̱’a̱n-ri xí’in-ña ná taán-ña ña̱’a ña̱ ikán ra chi̱ndieé tá’án-ri xí’in-ña.  Saá ndixa ki̱xa ña̱ tiokó válí ra sa̱kutú-ña leka ikán.  Xi̱ndi̱so leso leka ni̱xa̱’a̱n-ri xi̠ndia̱ka-ri-ña ve’e tiokó, ra ikán sa̱va’a mií-ña tiokó válí iin vikó xa̱’á leso, ña̱ va̱’a ini-ri.",
+    "words": [
+      {
+        "token": "xíka nuu",
+        "gloss": "hanging out"
+      },
+      {
+        "token": "leka",
+        "gloss": "bag"
+      },
+      {
+        "token": "itia",
+        "gloss": "grass"
+      },
+      {
+        "token": "taán",
+        "gloss": "put"
+      },
+      {
+        "token": "nda̠ni'í",
+        "gloss": "encountered"
+      },
+      {
+        "token": "ki̱xa",
+        "gloss": "did"
+      },
+      {
+        "token": "tiokó",
+        "gloss": "ants"
+      },
+      {
+        "token": "sa̱kutú",
+        "gloss": "filled up"
+      },
+      {
+        "token": "ndíso",
+        "gloss": "carrying"
+      },
+      {
+        "token": "xi̠ndi̠so",
+        "gloss": "carried its back"
+      },
+      {
+        "token": "ya̱vi̱",
+        "gloss": "hole"
+      },
+      {
+        "token": "ndia̱ka",
+        "gloss": "carried a person or animal"
+      },
+      {
+        "token": "ndixa nda̠a̠",
+        "gloss": "very truly"
+      },
+      {
+        "token": "vikó",
+        "gloss": "party"
+      }
+    ],
+    "english": "One time a rabbit was wandering around eating grass and she came across some little ants that were carrying things to their ant colony.  The rabbit saw that the things they were carrying were very, very heavy.\nThe rabbit went and got a little bag and told the ants to put all the things into the bag and she would help them with it.  The ants did so and filled up the bag.  The rabbit picked up the bag and carried it on her back and carried the ants to their ant colony.  The little ants threw a party for the rabbit, because she was so good."
+  },
+  {
+    "title": "Luvî",
+    "mixtec": "Tá xa̱ íyo vikó nu̱ú na̱ ñuu Ki̱yaa, ra kána luvî tíxá’a-ri.  Sava kána-ri vikó ndika’a, á vikó sísikí xí’in vikó xa̱’u̱n.  Kána tu iin ñá sí’i ká’nu va̱’a, ra     ká’a̱n-na móna xí’in-ñá.  Xina yé’e chíñu kíxáá-na tíxá’a-na tá ndǐ’i ra kua̱’a̱n-na ya̱’vi.",
+    "words": [
+      {
+        "token": "vikó",
+        "gloss": "party or festival"
+      },
+      {
+        "token": "Ki̱yaa",
+        "gloss": "Coicoyán"
+      },
+      {
+        "token": "kána",
+        "gloss": "comes out"
+      },
+      {
+        "token": "luvi^",
+        "gloss": "turtle"
+      },
+      {
+        "token": "vikó ndika’a",
+        "gloss": "Carnival"
+      },
+      {
+        "token": "vikó sísikí",
+        "gloss": "Carnival"
+      },
+      {
+        "token": "vikó xa̱’u̱n",
+        "gloss": "Independence Day"
+      },
+      {
+        "token": "ñá sí'i",
+        "gloss": "woman"
+      },
+      {
+        "token": "yé'e chíñu",
+        "gloss": "courthouse patio"
+      }
+    ],
+    "english": "When there are festivals in the town of Coicoyán de las Flores, a turtle comes out and dances.  Sometimes it will come out for the Tiger Festival, also called Carnival, and also for Independence Day.  Sometimes there will also be a huge woman, that they call a doll.  First they start dancing in the courtyard of the courthouse and when they are done there they go to the market."
+  },
+  {
+    "title": "Lírú",
+    "mixtec": "Iin ichí ni̱ki̱’vi iin lírú ndukuí’ná-ri ini ve’e tina. Tá xini tina ra ni̱sa̱á-ri ra ndi̱ki’in-ri kua̱’a̱n-ri sa̱tá lírú. Suu tá ni̱xa̱a̱-ri kaxí-ri lírú ta iin ta̱ni̱’ni-ri  si̱’ndi-ri nu̱ú-ri ra la̱lá-ri nu̱ú tina.  Iin xíkótuví mií rí tina kua̱’a̱n-ri chi kini ndi̱va̱’a xá’a̱¬n láxa lírú.  Ikán köníkuvi ka kaní-ri lírú kaxí-ri.",
+    "words": [
+      {
+        "token": "iin ichí",
+        "gloss": "one time"
+      },
+      {
+        "token": "la̱lá",
+        "gloss": "peed"
+      },
+      {
+        "token": "lírú",
+        "gloss": "skunk"
+      },
+      {
+        "token": "xíkótuví",
+        "gloss": "rolls"
+      },
+      {
+        "token": "ndukuí’ná",
+        "gloss": "steal"
+      },
+      {
+        "token": "xá’a̱n ",
+        "gloss": "smells"
+      },
+      {
+        "token": "tǐna",
+        "gloss": "dog"
+      },
+      {
+        "token": "láxa",
+        "gloss": "urine"
+      },
+      {
+        "token": "ni̱sa̱á",
+        "gloss": "got angry"
+      },
+      {
+        "token": "ka",
+        "gloss": "more"
+      },
+      {
+        "token": "ta̱ni̱’ni-ri  si̱’ndi-ri ",
+        "gloss": "the animal sprayed"
+      }
+    ],
+    "english": "One time a skunk got in to steal from a dog's house.  When the dog saw it, it got made and it took off running after the skunk.  But when it reached the skunk and went to bite it, all of a sudden the skunk sprayed the dog.  The dog rolled on the ground and left because skunk's spray smelled so bad.  The dog was never able to bite that skunk."
+  },
+  {
+    "title": "Yo̱ó",
+    "mixtec": "Saá ndátú’un-na xa̱’á yo̱ó. Tá sa̱va’a Ndióxi̱ ña̱ ndi̱í ta kútóo ndi̱va̱’a yo̱ó-ña chi nduvi ndi̱va̱’a\nyé’e̱-ña, ta ki̱xaá kûni̱ túvi yo̱ó mií ña̱ ndi̱í, suu káchi Ndióxi̱:\n\n—Yó’o̱, Ña̱ ndi̱í, tá nduví ye̱’e̱-un, ta yó’o̱, Yo̱ó, tá ñuu ye̱’e̱-un.\n\nTa kúsuchí ini yo̱ó chi küni̱ ka-ri ña̱ ndi̱í, ta xini̱ Ndióxi̱ ña̱ kúsuchí ini yo̱ó ta ña̱ ikán káchi-ra ná koo iin ki̱í tá ná kuvi ndakitá’án ña̱ ndi̱í xí’in yo̱ó, ta ña̱ ikán   kúú-a káchi-yo tá káyu̱ yo̱ó.",
+    "words": [
+      {
+        "token": "ña̱ ndi̱í",
+        "gloss": "sun"
+      },
+      {
+        "token": "yé’e̱",
+        "gloss": "shines"
+      },
+      {
+        "token": "túvi ",
+        "gloss": "dawns"
+      },
+      {
+        "token": "küni̱",
+        "gloss": "won’t see"
+      },
+      {
+        "token": "ña̱ ikán ",
+        "gloss": "therefore"
+      },
+      {
+        "token": "káyu̱",
+        "gloss": "burns"
+      }
+    ],
+    "english": "Saá ndátú’un-na xa̱’á yo̱ó. Tá sa̱va’a Ndióxi̱ ña̱ ndi̱í ta kútóo ndi̱va̱’a yo̱ó-ña chi nduvi ndi̱va̱’a\nyé’e̱-ña, ta ki̱xaá kûni̱ túvi yo̱ó mií ña̱ ndi̱í, suu káchi Ndióxi̱:\n—Yó’o̱, Ña̱ ndi̱í, tá nduví ye̱’e̱-un, ta yó’o̱, Yo̱ó, tá ñuu ye̱’e̱-un.\nTa kúsuchí ini yo̱ó chi küni̱ ka-ri ña̱ ndi̱í, ta xini̱ Ndióxi̱ ña̱ kúsuchí ini yo̱ó ta ña̱ ikán káchi-ra ná koo iin ki̱í tá ná kuvi ndakitá’án ña̱ ndi̱í xí’in yo̱ó, ta ña̱ ikán   kúú-a káchi-yo tá káyu̱ yo̱ó."
+  },
+  {
+    "title": "Kui̱i̱n",
+    "mixtec": "Ni̱xi̱yo iin kui̱i̱n ká’nu va̱’a yukú ta kútóo-ri kaxí-ri ku̱ñu̱, ña̱ ikán xa̱’ní ndi’i-ri kití yukú. Suu tá ndi̱’i kití ta ki̱xaá-ri ndákáni ini-ri xa̱’á ko¬̱ó, milá xí’in ndikuii kití kue̱’e̱ tí xíka nu̱ú ñu’ú, ta köníkundiéé ni ka-ri, ta xaxí-ri iin ko̱ó ta ko̱kaa kúú rí ikán, ta ña̱ ikán ni̱xi̱’i̱ tí kui̱i̱n xí’in ndutiá xa̱tu̱ yu’ú ko̱kaa.",
+    "words": [
+      {
+        "token": "kui̱i̱n",
+        "gloss": "tiger"
+      },
+      {
+        "token": "ku̱ñu̱",
+        "gloss": "meat"
+      },
+      {
+        "token": "xa̱’ní",
+        "gloss": "killed"
+      },
+      {
+        "token": "ndákáni ini",
+        "gloss": "thinking"
+      },
+      {
+        "token": "milá",
+        "gloss": "lizard"
+      },
+      {
+        "token": "köníkundiéé",
+        "gloss": "didn’t survive"
+      },
+      {
+        "token": "ko̱kaa",
+        "gloss": "rattlesnake"
+      },
+      {
+        "token": "ndutiá xa̱tu̱",
+        "gloss": "venom"
+      }
+    ],
+    "english": "Ni̱xi̱yo iin kui̱i̱n ká’nu va̱’a yukú ta kútóo-ri kaxí-ri ku̱ñu̱, ña̱ ikán xa̱’ní ndi’i-ri kití yukú. Suu tá ndi̱’i kití ta ki̱xaá-ri ndákáni ini-ri xa̱’á ko¬̱ó, milá xí’in ndikuii kití kue̱’e̱ tí xíka nu̱ú ñu’ú, ta köníkundiéé ni ka-ri, ta xaxí-ri iin ko̱ó ta ko̱kaa kúú rí ikán, ta ña̱ ikán ni̱xi̱’i̱ tí kui̱i̱n xí’in ndutiá xa̱tu̱ yu’ú ko̱kaa."
+  },
+  {
+    "title": "Tichi",
+    "mixtec": "Ni̱xi̱yo iin tú tichi ta ni̱xi̱yo kua̱’á tichi\nnda’á-tu. Suu iin ki̱í ni̱xa̱a̱ xi̱tŏ’o ki’in-ra tichi, ta u̱vi̱ nda̱a̱-ri ndiáá va̱’a ki’in-ra, ta ndi̱ki’in-ra kua̱’a̱n-ra, ta íyo iin tichi lo’o ña̱ xa̱ kûni̱ ku̱’u̱n xí’in-ra. Suu kuîí  ni̱’i va-ri täan ka kuu ndiáá-ri, ta saá kixi tuku-ra iinka ki̱í va, ta xa̱ kúsuchí mií ini ña̱ tichi lo’o yó’o. Chi kökûni̱-ra ku̱’u̱n-ña xí’in-ra, ta ni̱ya̱’a u̱na̱ ki̱í ta saá sá ki̱xaa̱ iin ndo̱’ó ká’nu xí’in-ra ta ndi̱ku̱to’ni-ra nu̱ú ña̱ tichi lo’o ta sá káchi-ra saá:\n\n–Vichin ndixa xa̱ va̱’a ku̱’u̱n-un xí’in-i chi xa̱ ndiáá va̱’a sa̱tá-un.\n\nTa ndi̱ki’in-ra-ña kua̱’a̱n-ña xí’in-ra xiko-ra\nya̱’vi.",
+    "words": [
+      {
+        "token": "tú tichi",
+        "gloss": "avocado tree"
+      },
+      {
+        "token": "xi̱tŏ’o",
+        "gloss": "owner"
+      },
+      {
+        "token": "ndiáá",
+        "gloss": "black"
+      },
+      {
+        "token": "täan",
+        "gloss": "still not"
+      },
+      {
+        "token": "ni̱ya̱’a",
+        "gloss": "passed"
+      },
+      {
+        "token": "ndo̱’ó",
+        "gloss": "basket"
+      }
+    ],
+    "english": "no translation"
+  },
+  {
+    "title": "Má’a̱ xí’in ndu̱ú vi̱xi̱",
+    "mixtec": "Iin ki̱í ni̱xa̱a̱ iin má’a̱ xa̱’á itu ra̱ táta José kaxí-ri itu-ra.  Ta köníxini-ri ña̱ ikán xíka se̱’e lo’o táta José, ra tá xini-ra-ri ta xínu-ra kua̱’a̱n-ra.  Ikán nda̱koo-ra leka ndu̱ú vi̱xi̱ ña̱ xáxí-ra.  Ta xini mií   má’a̱ ikán ndu̱ú vi̱xi̱, ra ndi̱kǐ’in-ri-ña kua̱’a̱n-ña xí’in-ri.\n\nTa mií ra̱ lo’o ikán ni̱xa̱’a̱n-ra ndatú’un-ra\nxí’in táta-e ña̱ xini-ra iin má’a̱, ra ndi̱kǐ’in mií táta-ra tu̱xii ta kua̱’a̱n-ra ka’ní-ra-ri.  Ta mií má’a̱ yó’o ki̱xaá-ri xáxí-ri ndu̱ú vi̱xi̱. Suu tá kûni̱-ri kokó-ri-ña ta ni̱ti̱in-ña su̱kún-ri, ta ni̱xi̱’i̱-ri.  Tá ni̱xa̱a̱ ka táta José ta xa̱ ni̱xi̱’i̱ va-ri, ra ikán ndi̱kǐ’in-na-ri kua̱’a̱n-ri xí’in-na kuxi-na.",
+    "words": [
+      {
+        "token": "köníxini",
+        "gloss": "didn’t see"
+      },
+      {
+        "token": "nda̱koo",
+        "gloss": "left behind"
+      },
+      {
+        "token": "ndu̱ú vi̱xi̱ ",
+        "gloss": "candy"
+      },
+      {
+        "token": "ni̠xa̠'a̠n",
+        "gloss": "went"
+      },
+      {
+        "token": "ndatú’un",
+        "gloss": "to talk"
+      },
+      {
+        "token": "tu̱xii",
+        "gloss": "gun"
+      },
+      {
+        "token": "kokó",
+        "gloss": "to swallow"
+      },
+      {
+        "token": "ni̠xa̠a̠",
+        "gloss": "arrived"
+      },
+      {
+        "token": "má'a̠",
+        "gloss": "raccoon"
+      },
+      {
+        "token": "itu",
+        "gloss": "corn field"
+      },
+      {
+        "token": "su̠kún",
+        "gloss": "throat"
+      },
+      {
+        "token": "ni̠xi̠'i̠",
+        "gloss": "died"
+      }
+    ],
+    "english": "One day a raccoon arrived at Jose's dad's corn field to eat up the corn.  It didn't see that Jose's dad's little boy was walking there, and when he saw it he took off running.  He left behind the bag of candy he was eating.  The raccoon saw the bag of candy and he grabbed it and left with it.\nThe little boy went and told his dad that he had seen a raccoon, and his dad grabbed a rifle and went to go kill it.  That raccoon had begun eating the candies.  But when it tried to swallow the candy, it got stuck in his throat and it died.  When Jose's dad arrived the racoon was already dead, so he grabbed it and took it with him for them to eat."
+  },
+  {
+    "title": "Tiu̱ún",
+    "mixtec": "Tiu̱ún xí’in kolo kúú-ri xíxi sava na̱ yuví tá íyo iin vikó nu̱ú-na. Chi ya̱sín lo’o ka xíxi ku̱ñu̱-ri nu̱ú ku̱ñu̱ ndiuxí káchi-na. Suu sava-na ta kútóo-na kundee tiu̱ún válí nu̱ú-na, ta sáta̱’ví-na-ri ná nduu kua̱’á kolo xí’in tiu̱ún sa̱na̱-na, ta íxiko-na-ri.",
+    "words": [
+      {
+        "token": "ya̱sín",
+        "gloss": "tasty"
+      },
+      {
+        "token": "kundee",
+        "gloss": "to be"
+      },
+      {
+        "token": "sáta̱’ví",
+        "gloss": "hatching"
+      },
+      {
+        "token": "nduu",
+        "gloss": "to become"
+      }
+    ],
+    "english": "no translation"
+  },
+  {
+    "title": "Páñu",
+    "mixtec": "Iin ki̱í ni̱xa̱’a̱n ií ñá Lóla ya̱’vi ta ki’in-ra iin páñu ndiáá kundixi-ñá. Suu ñá Lola ta ndi̱ki’in-ñá mií páñu ikán ta chi̱va’a-ñá-ña:\n\n—Chi nda̱a̱ kui̱ya̱ xaá sá kundixi-i-ña —káchi-ñá.\n\nSuu ni̱ya̱’a u̱vi̱ yo̱ó ta tuví karu ta ikán ni̱xi̱’i̱ ñá Lóla, ta páñu ndiáá-ñá ta chi̱kaa̱-na-e ini xa̱tún-ñá chi köníxindixi-ñá-ña ta ikán ni̱tia̱’yu páñu-ñá xí’in mií-ñá vichin.",
+    "words": [
+      {
+        "token": "kundixi",
+        "gloss": "to wear"
+      },
+      {
+        "token": "chi̱va’a",
+        "gloss": "stored safely"
+      },
+      {
+        "token": "kui̱ya̱ xaá ",
+        "gloss": "New Year"
+      },
+      {
+        "token": "tuví",
+        "gloss": "rolled over"
+      },
+      {
+        "token": "xa̱tún",
+        "gloss": "wooden box"
+      },
+      {
+        "token": "ni̱tia̱’yu",
+        "gloss": "rotted"
+      }
+    ],
+    "english": "no translation"
+  },
+  {
+    "title": "Tia̱ká",
+    "mixtec": "Iin ki̱í ni̱ta̱’vi u̱ni̱ tia̱ká válí, ta ni̱ka̱’a̱n\nnána-ri xí’in-ri ná käna-ri yu’ú i̱tia, chi tíín na̱ válí-ri á kaxí tio̱lí káchi-ñá xí’in-ri, ta könítiaa so̱’o u̱vi̱-ri ta ni̱xa̱’a̱n-ri yu’ú i̱tia, ta ikán ti̱in na̱ válí-ri ta\nkua̱’a̱n-ri xí’in-na kuxi-na, ta ndáa iin nda̱a̱-ri ki̱ndo̱o, ta sá ká’a̱n-ri ikán saá:\n\n—Na̱-e kúú-a íyo yu’ú i̱tia ña̱ ikán kökûni̱ nána-yo taxi-ñá-yo ku̱’u̱n-yo, ta na̱ chiñu köníndikó ka ñani-yo kíxa̱a̱-na.\n\nTa ndi̱ki’in-ri kua̱’a̱n-ri tá lo’o lo’o nu̱ú-ri tává-ri ta xini-ri ndéé u̱vi̱ na̱ válí, ta kûni̱-na tiin-na mií rí tia̱ká lo’o yó’o, ta saá ki̱xaá-ri tia̱ká lo’o ndá’yu̱-ri ta xínu-ri ni̱xa̱a̱-ri nu̱ú nána-ri, ta nda̱a̱ ki̱í saá köníxá’a̱n ka-ri yu’ú i̱tia.",
+    "words": [
+      {
+        "token": "käna",
+        "gloss": "not go out"
+      },
+      {
+        "token": "tio̱lí",
+        "gloss": "crab"
+      },
+      {
+        "token": "yu’ú i̱tia",
+        "gloss": "river’s edge"
+      },
+      {
+        "token": "ndéé ",
+        "gloss": "are"
+      },
+      {
+        "token": "na̱ chiñu ",
+        "gloss": "why"
+      },
+      {
+        "token": "nda̱a̱ ki̱í saá",
+        "gloss": "since then"
+      }
+    ],
+    "english": "no translation"
+  },
+  {
+    "title": "Iin kóndó ndá’vi",
+    "mixtec": "Íyo iin kóndó ndá’vi ndáva-ri nda’á itu.  Ta\nndǒ’ó-ri tu̱ndo’ó, ni̱ta̱’nu̱ nda’á-ri.\n\nSuu vichin ta̱kuě’e̱ xi̱ní-ri, ra nda̱ndǒso ndi’i-ri ña̱ ndǒ’ó-ri.",
+    "words": [
+      {
+        "token": "ndáva",
+        "gloss": "jumping"
+      },
+      {
+        "token": "ndǒ’ó",
+        "gloss": "suffered"
+      },
+      {
+        "token": "tu̱ndo’ó",
+        "gloss": "suffering"
+      },
+      {
+        "token": "ni̱ta̱’nu̱",
+        "gloss": "broke"
+      },
+      {
+        "token": "ta̱kuě’e̱ ",
+        "gloss": "injured"
+      },
+      {
+        "token": "nda̱ndǒso",
+        "gloss": "forgot"
+      }
+    ],
+    "english": "There was a poor frog who was jumping from leaf to leaf in a corn field.  She suffered an accident and broke her arm.\nBut now she's hurt her head, and forgotten everything that has happened to her."
+  },
+  {
+    "title": "Ti̱ndôó",
+    "mixtec": "Íyo iin ti̱ndôó kuâán, ra ve’e-ri kúú xa̱’á       vi̱’ndiá, ra ña̱ ikán ki’in-ri kua̱’a̱n-ri.\n\nTa ikán nda̱nǐ’i-ri iin tú tǐchi ta xí’in tǐchi.  Ta ni̱xa̱’a̱n-ri ya̱’vi ni̠xǐko-ri mií tǐchi ikán, ra ná kana   xǔ’un-ri kuiin-ri iin ña̱’a sáni’í-ri nána-ri.",
+    "words": [
+      {
+        "token": "ti̱ndôó",
+        "gloss": "spider"
+      },
+      {
+        "token": "kuâán",
+        "gloss": "single"
+      },
+      {
+        "token": "vi̱’ndiá",
+        "gloss": "cactus"
+      },
+      {
+        "token": "nda̱nǐ’i",
+        "gloss": "found"
+      },
+      {
+        "token": "tú tǐchi",
+        "gloss": "avocado tree"
+      },
+      {
+        "token": "ni̠xǐko",
+        "gloss": "sold"
+      },
+      {
+        "token": "kuiin",
+        "gloss": "buy"
+      },
+      {
+        "token": "sáni’í",
+        "gloss": "giving"
+      }
+    ],
+    "english": "no translation"
+  },
+  {
+    "title": "Xixi Lupe",
+    "mixtec": "Ndi’i ki̱í xíxi xito xí’in xixi Lupe leso, tí xá’ní-ra yukú.  Ta chíka̱a̱-na xi̱’í sa̱tá-ri.\n\nTa xixi Lupe ndákoo-ñá lo’o xá’a ña̱ ndiko-ñá xi̱tá i’ní nu̱ú xi̱yó kuxi-ñá xí’in na̠ ve'e-na.",
+    "words": [
+      {
+        "token": "xíxi",
+        "gloss": "eats"
+      },
+      {
+        "token": "xá’ni",
+        "gloss": "kills"
+      },
+      {
+        "token": "xi̱’i",
+        "gloss": "mushroom"
+      },
+      {
+        "token": "ndákoo",
+        "gloss": "leaves"
+      },
+      {
+        "token": "xá’a",
+        "gloss": "hominy"
+      },
+      {
+        "token": "ndiko",
+        "gloss": "to grind"
+      },
+      {
+        "token": "xi̱yó",
+        "gloss": "griddle"
+      },
+      {
+        "token": "kuxi",
+        "gloss": "to eat"
+      }
+    ],
+    "english": "no translation"
+  },
+  {
+    "title": "Tia̱ Nduláa",
+    "mixtec": "Xi̱na̱’á xi̱tiǎku iin tia̱a tia̱ xi̱naní Nduláa.  Saá ni̱ka̱’a̱n-na xí’in-ra chi kua̱’á ná’a ña̱’a xǐxi-ra.\n\nMií ra̱ Nduláa ikán xǐxi-ra u̱vi̱ makíla xi̱tá, ra u̱ni̱ ki̱si nduchí, ra u̱vi̱ yoo ti̱kuii ndi’i ki̱í.  Suu ná'a̱-ra va̱'a sáchíñu-ra ndakú va̱’a-ra.\n\nNa’a xási ini-ra iin makíla xi̱tá, xíxá’ñu-ra  iinka makíla xi̱tá, ta sava xíxíni-ra iinka sava makíla.",
+    "words": [
+      {
+        "token": "makíla",
+        "gloss": "5 liters"
+      },
+      {
+        "token": "xási ini",
+        "gloss": "eats breakfast"
+      },
+      {
+        "token": "xíxá’ñu",
+        "gloss": "eats in the afternoon"
+      },
+      {
+        "token": "xíxíni",
+        "gloss": "eats dinner"
+      }
+    ],
+    "english": "A long time ago there lived a man who was called Nduláa.  They called him that because he ate so much.\nNduláa would eat two measures of tortillas and three pots of beans and two jugs of water every day.  But he worked a lot and he worked very hard.\nEarly he would eat a measure of tortillas for breakfast, for lunch another measure of tortillas, and sometimes for dinner he would have another half measure."
+  }
+]

@@ -1,0 +1,31 @@
+{
+  "titles": {
+    "en" : "Thirty Stories",
+    "jmx" : "Oko uxi kuéndo"
+  },
+  "authors": [
+    "Candice Beatham",
+    "Bruce Beatham",
+    "Rebeca Rodriguez Flores",
+    "Fidela Rodriguez Flores",
+    "Sergio Flores Rodriguez"
+    "Margarito Flores Rodriguez",
+    "Táta Lopez Lopez",
+    "Emily John Martin"
+  ],
+  "language": {
+    "names" : { 
+      "en": "El Jicaral Mixtec",
+      "es": "Mixteco de El Jicaral",
+      "jmx": "Tu̠'un Ndá'vi ñuu Nu̠ú Tiaxín"
+
+    },
+    "codes" : { 
+      "iso-639-3": "jmx",
+      "glottocode": ""
+    }
+  },
+  "translations  ": [ ],
+  "description" : " Tutu yó'o íyo uxiko uxi kuéndo nduvi ní xa'á kití ta na yuví. Íyo kuéndo siki ta kuéndo kutati ini. Ná kusií ini-ndo ka'vi-ndo-ña.  This is a collection of short stories reflecting the rich oral traditions and culture of the Mixtec people.",
+  "lastModified": "2015-04-28"
+}
