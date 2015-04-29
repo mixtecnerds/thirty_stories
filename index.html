@@ -63,10 +63,12 @@ main > header {
 
 #lexicon { 
   flex: 2;
+  -moz-column-count: 2;
 }
 
 #source, #target { 
   font-size: 1.5rem;
+  overflow-y: auto;
 }
 
 #source { 
@@ -105,13 +107,15 @@ main > header {
 <section id=lexicon>
 <ul>
 <li><strong>casa</strong> ‘house’
-<ul>
+</ul>
 </section>
 
 
 </main>
+<script src=js/routie.js></script>
 <script src=js/fetch.js></script>
 <script>
+
 app = {
   current: 0,
 
@@ -119,14 +123,20 @@ app = {
 
   to : function(n){
     this.current = n;
+    //routie(n);
     this.render();
   },
 
   render: function(){
     var text = this.texts[this.current];
+    var words = text.words.sort(function(a,b){ return new Intl.Collator('es').compare(b.token, a.token)}); 
+
+    var ul = document.querySelector('#lexicon ul');
     document.querySelector('main header h1').textContent = text.title;
     document.querySelector('#source').textContent = text.mixtec;
     document.querySelector('#target').textContent = text.english;
+    ul.innerHTML = '';
+    words.forEach(renderWord)
   },
 
   previous: function(){
@@ -135,15 +145,13 @@ app = {
   },
 
   next: function(){
-    console.log([this.texts.length - 1, this.current + 1]);
     var n = Math.min(this.texts.length - 1, this.current + 1)
     this.to(n);
   },
 };
 
 function renderWord(word){
-  var ul = document.querySelector('#lexicon ul');
-  ul.innerHTML = '';
+    var ul = document.querySelector('#lexicon ul');
   ul.insertAdjacentHTML('afterbegin', `<li><strong>${word.token}</strong> ‘${word.gloss}’</li>`);
 }
 
@@ -157,10 +165,14 @@ function renderText(textID){
 fetch('thirty_stories.json')
  .then(response => response.json())
  .then(json =>  { app.texts = json })
- .then(() => app.to(11)) 
+ .then(() => { 
+    var randomN = Math.floor(Math.random() * app.texts.length);
+    app.to(randomN);
+  })
+
+//routie(':page', (page) => app.to(page))
 
 document.addEventListener('keyup', function(ev){
-console.log(ev.which);
   switch(ev.which) {
     case 39: 
       app.next();
@@ -180,7 +192,6 @@ document.querySelector('nav button#next').addEventListener('click', function(){
 document.querySelector('nav button#prev').addEventListener('click', function(){
   app.previous()
 })
-
 
 
 </script>
